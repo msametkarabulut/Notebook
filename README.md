@@ -12,10 +12,10 @@ Not Defteri.exe dosyasını indirin.
 
 
 📸 Ekran Görüntüleri
-[https://sametkarabulut.com/wp-content/uploads/2025/02/Ekran-goruntusu-2025-02-19-124625.png]
-[https://sametkarabulut.com/wp-content/uploads/2025/02/Ekran-goruntusu-2025-02-19-124633.png]
-[https://sametkarabulut.com/wp-content/uploads/2025/02/Ekran-goruntusu-2025-02-19-130112.png]
-[https://sametkarabulut.com/wp-content/uploads/2025/02/Ekran-goruntusu-2025-02-19-130123.png]
+![Uygulama Görseli](https://sametkarabulut.com/wp-content/uploads/2025/02/Ekran-goruntusu-2025-02-19-124625.png)
+![Uygulama Görseli](https://sametkarabulut.com/wp-content/uploads/2025/02/Ekran-goruntusu-2025-02-19-124633.png)
+![Uygulama Görseli](https://sametkarabulut.com/wp-content/uploads/2025/02/Ekran-goruntusu-2025-02-19-130112.png)
+![Uygulama Görseli](https://sametkarabulut.com/wp-content/uploads/2025/02/Ekran-goruntusu-2025-02-19-130123.png)
 
 
 
