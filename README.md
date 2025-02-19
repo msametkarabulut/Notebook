@@ -6,7 +6,7 @@ Bu proje, **kolay bir şekilde not tutmanızı** amaçlayan bir uygulamadır. Ku
 
 ## 📥 İndirme ve Kurulum
 
-[![📥 Not Defteri'ni İndir](https://img.shields.io/badge/📥%20İndir-Not%20Defteri.exe-blue)](https://github.com/msametkarabulut/Notebook/blob/main/Not%20Defteri.exe)
+[![📥 Not Defteri'ni İndir](https://img.shields.io/badge/📥%20İndir-Not%20Defteri.exe-blue)]((https://sametkarabulut.com/Uygulamalar/notdefteri.exe))
 
 1. **Not Defteri.exe** dosyasını indirin.
 2. İndirilen dosyayı çalıştırarak kullanmaya başlayın.
