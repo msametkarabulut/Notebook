@@ -1,31 +1,26 @@
-# 🚀 Notebook
+# 📓 Gelişmiş Not Defteri Uygulaması
 
-Bu proje, **kolay bir şekilde not tutmanızı** amaçlayan bir uygulamadır. Kullanıcı dostu arayüzü ve pratik kullanımı ile **not almanıza olanak sağlar**.
+## 📝 Proje Açıklaması
+Visual Studio 2022 ve C# kullanılarak geliştirilmiş, profesyonel not yönetim uygulaması.
 
----
+## ✨ Özellikler
+- Not ekleme, silme, düzenleme
+- Kullanıcı dostu arayüz
+- Hızlı ve hafif çalışma
+- Verilerin güvenli saklanması
 
-## 📥 İndirme ve Kurulum
+## 🛠 Kullanılan Teknolojiler
+- C#
+- .NET Framework
+- Windows Forms
 
-[![📥 Not Defteri'ni İndir](https://img.shields.io/badge/📥%20İndir-Not%20Defteri.exe-blue)](https://sametkarabulut.com/Uygulamalar/notdefteri.exe)
-
-1. **Not Defteri.exe** dosyasını indirin.
-2. İndirilen dosyayı çalıştırarak kullanmaya başlayın.
-
----
+## 🚀 Kurulum
+1. Projeyi klonlayın
+2. Visual Studio'da açın
+3. Derleyin ve çalıştırın
 
 ## 📸 Ekran Görüntüleri
+[Ekran görüntüsü eklenecek]
 
-![Uygulama Görseli](https://sametkarabulut.com/wp-content/uploads/2025/02/Ekran-goruntusu-2025-02-19-124625.png)
-![Uygulama Görseli](https://sametkarabulut.com/wp-content/uploads/2025/02/Ekran-goruntusu-2025-02-19-124633.png)
-![Uygulama Görseli](https://sametkarabulut.com/wp-content/uploads/2025/02/Ekran-goruntusu-2025-02-19-130112.png)
-![Uygulama Görseli](https://sametkarabulut.com/wp-content/uploads/2025/02/Ekran-goruntusu-2025-02-19-130123.png)
-
----
-
-## 📜 Lisans
-
-Bu proje **M. Samet Karabulut** tarafından tasarlanmıştır. İzinsiz kullanılamaz.
-
----
-
-Bu projeye destek olmak için ⭐ vererek GitHub'da beğenebilirsiniz! 🚀
+## 🤝 Katkıda Bulunma
+Geliştirmeye katkıda bulunmak için pull request açabilirsiniz.
